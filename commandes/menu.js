@@ -1,6 +1,6 @@
 const util = require('util');
 const fs = require('fs-extra');
-const { zokou } = require(__dirname + "/../framework/zokou");
+const { ☄️🏆MRPV🏆☄️ } = require(__dirname + "/../framework/zokou");
 const { format } = require(__dirname + "/../framework/mesfonctions");
 const os = require("os");
 const moment = require("moment-timezone");
@@ -13,7 +13,7 @@ zokou({ nomCom: "menu", reaction:"📁",categorie: "Général" }, async (dest, z
     var mode = "public";
     
     if ((s.MODE).toLowerCase() != "oui") {
-        mode = "privé";
+        mode = "public";
     }
 
      
@@ -27,21 +27,20 @@ zokou({ nomCom: "menu", reaction:"📁",categorie: "Général" }, async (dest, z
     moment.tz.setDefault('Etc/GMT');
 
 // Créer une date et une heure en GMT
-const temps = moment().format('HH:mm:ss');
-const date = moment().format('DD/MM/YYYY');
+const temps = moment().format('06:27:14');
+const date = moment().format('11/07/2024');
 
   let infoMsg =  `
-╭────✧${s.BOT}✧────◆
-│   *Préfixe* : ${s.PREFIXE}
-│   *Owner* : ${s.NOM_OWNER}
-│   *Mode* : ${mode}
+╭────✧${s.MRPV bot}✧────◆
+│   *Préfixe* : ${s.€}
+│   *Owner* : ${s.🌀☄️🏆MRPV🌀☄️🏆}
+│   *Mode* : ${relaxe}
 │   *Commandes* : ${cm.length}
-│   *Date* : ${date}
+│   *Date* : ${11/06/2024}
 │   *Heure* : ${temps}
 │   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │   *Plateforme* : ${os.platform()}
-│   *Développeurs* : Djalega++ 
-│  & M๏𝓷keℽ D Lบffy
+│   *Développeurs* : EozaAtlas (atlas familly)
 ╰─────✧WA-BOT✧─────◆ \n\n`;
     
 let menuMsg = `
@@ -64,9 +63,8 @@ let menuMsg = `
     menuMsg += `
 ◇            ◇
 *»»————— ★ —————««*
-Pour utiliser  une  commande, tapez  ${prefixe}"nom de la commande"
+Pour utiliser  une  commande, tapez  ${€}"nom de la commande"
  
- powered by zokou-md
                                                 
 *»»————— ★ —————««*
 `;
@@ -76,7 +74,7 @@ Pour utiliser  une  commande, tapez  ${prefixe}"nom de la commande"
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Zokou-MD*, développé par Djalega++" , gifPlayback : true}, { quoted: ms });
+        zk.sendMessage(dest, { video: { url:https://youtu.be/JBqxVX_LXvk?si=54eSQS5IUnsiGF_W}, caption:infoMsg + menuMsg, footer: "Je suis *🌟MRPV_bot🌟*, une création de Maestria rpverse " , gifPlayback : true}, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -86,7 +84,7 @@ Pour utiliser  une  commande, tapez  ${prefixe}"nom de la commande"
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Zokou-MD*, développé par Djalega++" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url:[url=https://imgbb.com/][img]https://i.ibb.co/M2VfGZL/In-Collage-20240704-154139515.png[/img][/url]  }, caption:infoMsg + menuMsg, footer: "Je suis *🔥🫧 MRPV BOT🌬️🏜️*, ☄️🏆MRPV☄️🏆++" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);

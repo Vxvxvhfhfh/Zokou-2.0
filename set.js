@@ -9,14 +9,14 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
     : process.env.DATABASE_URL;
 module.exports = { session: process.env.SESSION_ID || 'zokk',
      ETAT:process.env.ETAT,
-    PREFIXE: process.env.PREFIXE,
-    NOM_OWNER: process.env.NOM_OWNER || "Zokou-Md",
-    NUMERO_OWNER : process.env.NUMERO_OWNER,              
+    PREFIXE: process.env.PREFIXE, €
+    NOM_OWNER: process.env.NOM_OWNER || "MRPV Bot",
+    NUMERO_OWNER : process.env.NUMERO_OWNER, 63685468             
     LECTURE_AUTO_STATUS: process.env.LECTURE_AUTO_STATUS || "non",
     TELECHARGER_AUTO_STATUS: process.env.TELECHARGER_AUTO_STATUS || 'non',
     MODE: process.env.MODE_PUBLIC,
     PM_PERMIT: process.env.PM_PERMIT || 'non',
-    BOT : process.env.NOM_BOT || 'Zokou_MD',
+    BOT : process.env.NOM_BOT || '🏆🌀☄️MRPV_BOT🏆🌀☄️',
     URL : process.env.LIENS_MENU || 'https://static.animecorner.me/2023/08/op2.jpg',
     HEROKU_APP_NAME : process.env.HEROKU_APP_NAME,
     HEROKU_APY_KEY : process.env.HEROKU_APY_KEY ,

@@ -1,15 +1,15 @@
 {
-  "name":"Zokou-2.0",
+  "name":"🏆🌀☄️MAESTRIA RPVERSE 🏆🌀☄️",
   "description":"bot whatsapp développé par djalega++",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
+  "logo":"[url=https://ibb.co/3fLDM26][img]https://i.ibb.co/DGSx8hc/Polish-20240703-183326219.jpg[/img][/url]",
   "repository":"https://github.com/djalega8000/Zokou-2.0",
   "succes_url":"/",
   "stack":"container",
   "env":{
     "PREFIXE":
     {
-      "description":"choisissez votre préfixe",
+      "description":"€",
       "value":"#",
       "required":true
     },
@@ -28,7 +28,7 @@
     "NOM_BOT" : {
        
       "description":"Un nom pour votre bot",
-      "value":"Zokou-MD",
+      "value":"Zok",
       "required":false
 
     } ,
@@ -71,23 +71,23 @@
     "SESSION_ID":
     {
       "description":"veuillez renseigner votre id de session",   
-      "value":"",
+      "value":"Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibUhUaTNJYlN0bG1PQysxUGhqWU5Ha213YjEyYm9wc29XT1lleFFaMFRHVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRzBwT3d0KysyUk9nZDBBTzFVbVF1VTZFd1FIYm1GUFRpU3YyTHBFMXdrUT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPRUl3SlNIR2ZqOGFXc3o3S1JQeUE2SG14VGRvVWhzUGNFTmp0TXhpQjBrPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJZTmdqUzljdG83L2krNzRCQkk0V2xjazM4NjZnUjR4MFk4NGtWdFJmTW1jPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNBbGtReGpUQlFvYXlwSWRPaGtJaDl3NEtWakVON2RkY0xmQVAvZzg5RXM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlluKy80RWxRY2Z3ZUhiWWhXd2tZcmRIQ1hkSkQzbXVHSE9NU0xJdHBoaDA9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidUozYU1OSVlTZXk5bGpMSnVEUjZJVVlQTC90UHNrUExPeWlscXZJaU9YTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMWJoZmZhRGFEU1N4WUhMV3h4cmJLa3o4NC9aVDBjQXlTRkhkZGx5L1RRUT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkR5ZUhGanVpRGIvZ0RBWlRRVlh6MTIxdWVUbkwzUDRaM2xhemNLOHRQUktHakZlYmMrS2dKWWFJZGw4dHJKUnhrQmR4TlFsRy9MejdNV3ZrZ1FVdENRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjE4LCJhZHZTZWNyZXRLZXkiOiJiNXlJWTR0ZzREQ1BKR0dQSjE4dmVNRjdqOWlIUmVmWFVQdmJiRlVNWllZPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJDeXFJcm1JQlF3Q0hpVTBKQmNEWGpBIiwicGhvbmVJZCI6IjBhZTJiZmVkLTllN2MtNGVjYS05YTVlLTU1MmFmY2EyM2EwNyIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVWkVuTTNzR1AvU0VkN0NXNXlCU3BqQVJyUTA9In0sInJlZ2lzdGVyZWQiOmZhbHNlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IldUODJYMk5lUWVTa0xUWWFNUVNodzNteU9LOD0ifSwicmVnaXN0cmF0aW9uIjp7fSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1BLM3lva0hFSXVidnJRR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IjRUcEZGbUlGTGRRN1cxYklMdzVubVVHSGlBSlE5YXBLdDF4NjRqTlBJMWc9IiwiYWNjb3VudFNpZ25hdHVyZSI6InVFeCsxRTZ2LzFGTXZ4WHBaRVNpSXkwSEluSC9mdEwyT2prb1J3dmg0TG5sSWJUcGp4bXAzQ3RuNzB5RUM1Vmd3amEvSW5STDJVbkRXcGE4TVQ5SUFnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiIrQkVrMUJxZ1dHa0dNS3ZWRHZUeS9CZU1MYmV1UlN6Z1Y3ZnFsdVVZTE5oSmxVSlY3Qmc4RWJ4OTBKNXAxdnBCS2NFcDVsU2QxUGhPSndGREIzaU5BZz09In0sIm1lIjp7ImlkIjoiMjI2NjM2ODU0Njg6NUBzLndoYXRzYXBwLm5ldCIsImxpZCI6IjQ4MTk4NTc2MDM4MTE2OjVAbGlkIn0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIyNjYzNjg1NDY4OjVAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCZUU2UlJaaUJTM1VPMXRXeUM4T1o1bEJoNGdDVVBXcVNyZGNldUl6VHlOWSJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0FnSURBPT0ifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzIwNjgzOTE4LCJsYXN0UHJvcEhhc2giOiIyV1VqbVoifQ==",
       "required":true
       
     },
     "NOM_OWNER":
     {
     
-    "description": "Votre nom",
-    "required": false,
-    "value": "Djalega++"
+    "description": "Eoza",
+    "required": true,
+    "value": "Coolpix"
   },
     "NUMERO_OWNER":
   {
     
     "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
-    "required":false,
-    "value": "22891733300"
+    "required":true,
+    "value": "22663685468"
   },
     
 
